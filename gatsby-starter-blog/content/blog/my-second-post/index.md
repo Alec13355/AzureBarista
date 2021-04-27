@@ -4,7 +4,6 @@ date: "2021-03-30T22:10:03.284Z"
 description: "Cypress in Azure Part 2"
 ---
 
-
 ## Problem Statement
 
 In order to continue delivering quality code and reduce human error in manual testing we want to automate high priority manual tests. In addition to this issue we no longer want to use ADAL if you want that guide please go here to see my previous post on [Source Allies' Blog.](https://www.sourceallies.com/2020/02/cypress-in-azure/) If you've already read that post skip down to the ADAL to MSAL difference otherwise this will be an identical walk through. 
