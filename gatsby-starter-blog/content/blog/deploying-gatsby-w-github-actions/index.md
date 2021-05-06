@@ -8,7 +8,4 @@ This is the steps I followed to get my blog to Azure. Since Microsoft is moving 
 
 This blog is based off of [Gatsby's own website here](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-azure/). My plan is to add commentary or clarity where I got stuck.
 
-## Get Code to Github
-The first thing is to create a Gatsby project and then get it to a Github repo. You can find guidance on that in multiple places. Such as the Gatsby link or Github, too.
-
-
+So fast forward and attempting to do this I have to say I'm very impressed by Gatsby's blog. The most difficult part was mapping my site to my google domain (and that was just throwing a cname on my DNS). This was super easy thanks to Gatsby's guide.
