@@ -1,6 +1,6 @@
 ---
 title: Microsoft Build
-date: "2021-05-25T1:10:03.284Z"
+date: "2021-05-25T01:10:03.284Z"
 description: Here is a landing page for my take aways from Microsoft Build
 ---
 
@@ -12,4 +12,4 @@ If you haven't heard of Microsoft Build "Microsoft Build (often stylised as //bu
 4. Github code spaces? 
 5. Azure Arc?
 6. Azure Ledger? 
-7. Project Reunion? 
+7. Project Reunion?
