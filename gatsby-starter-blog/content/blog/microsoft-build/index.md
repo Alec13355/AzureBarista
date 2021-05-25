@@ -1,6 +1,6 @@
 ---
 title: Microsoft Build
-date: "2021-05-25T22:10:03.284Z"
+date: "2021-05-25T1:10:03.284Z"
 description: Here is a landing page for my take aways from Microsoft Build
 ---
 
