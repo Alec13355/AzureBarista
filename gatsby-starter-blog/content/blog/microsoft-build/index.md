@@ -8,7 +8,7 @@ If you haven't heard of Microsoft Build "Microsoft Build (often stylized as //bu
 
 1. Microsoft Build overall thoughts and was it worth it? 
 2. You can host AKS on your own stuff!
-3. Cosmos DB has a free teir (and serverless offering)?
+3. Cosmos DB has a free tier (and serverless offering)?
 4. Github code spaces? 
 5. Azure Arc?
 6. Azure Ledger? 
