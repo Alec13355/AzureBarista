@@ -5,6 +5,7 @@ description: Have you heard of Power Apps or fusion teams? Are they the future? 
 ---
 
 ![Fusion Team](./fusion.png)
+*Copyrights DBZ*
 
 ## What are fusion teams, citizen developers, professional developers?
 Microsoft defines fusion teams as a collaborative team of professional developers and citizen developers. A citizen developer is a subject matter expert that is the primary user of Microsoft Power Apps to build software to help them do their jobs. A professional developer is a developer in the more traditional definition. 
