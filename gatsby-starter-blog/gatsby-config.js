@@ -3,12 +3,12 @@ module.exports = {
     title: `Azure Barista Blog`,
     author: {
       name: `Alec Harrison`,
-      summary: `who lives and works in Des Moines building useful things.`,
+      summary: `who lives and works in Des Moines building useful things. Any questions about any post feel free to connect with me on`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [

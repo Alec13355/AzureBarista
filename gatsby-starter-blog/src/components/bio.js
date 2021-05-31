@@ -46,6 +46,10 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <a href={`https://www.linkedin.com/in/alec13355`}>
+            LinkedIn
+          </a>
+          &nbsp;and message me there.
           <a href={`https://www.meetup.com/Iowa-Microsoft-Azure-User-Group`}>
             You should checkout IMAUG!
           </a>
