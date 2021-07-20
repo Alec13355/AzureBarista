@@ -37,3 +37,4 @@ Overall I personally think Bicep is pretty great! It helps make writing infra co
 - [Bicep Extension](https://github.com/Azure/bicep/blob/main/docs/installing.md#install-the-bicep-vs-code-extension)
 - [Blog References](https://4bes.nl/2021/06/27/build-test-and-deploy-bicep-through-github-actions/)
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+- [Link to Presentation](https://www.youtube.com/watch?v=CAV0zrK01Wo)
