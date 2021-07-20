@@ -3,6 +3,10 @@ title: Microsoft Build Retro
 date: "2021-07-15T01:10:03.284Z"
 description: Was Microsoft Build Worth It?
 ---
+
+![Microsoft Build](./MSBuild.png)
+*Copyright Microsoft*
+
 ## What is a retro?
 Just in case you are new to Agile or don't hold retros (retrospectives) as ceremonies I will briefly describe them. The purpose of a retro is to point out usually in a sprint (period of work you are committing to do) what went well, what didn't, and any praise for the team. You can alter what your questions are, but the goal is to make the team run more streamline. You can apply this mindset to other parts of your life and grow else where too!
 
