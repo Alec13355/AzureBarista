@@ -1,6 +1,6 @@
 ---
 title: Hello World take 2
-date: "2022-07-1T22:10:03.284Z"
+date: "2022-07-01T22:10:03.284Z"
 description: "Who Am I?"
 ---
 
