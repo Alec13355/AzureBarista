@@ -5,6 +5,7 @@ description: As you may know, Microsoft has major investments in OpenAI, one of 
 canonical: https://www.lunavi.com/blog/getting-started-with-azure-openai
 ---
 
+<link rel="canonical" href="https://www.lunavi.com/blog/getting-started-with-azure-openai" />
 As you may know, Microsoft has major investments in OpenAI, one of the top artificial intelligence companies creating such leading products as ChatGPT and DALL-E. They clearly believe AI is a huge piece of the future of technology, and they’re beginning to integrate OpenAI products and features throughout Microsoft platforms.
 
 For example, Microsoft recently announced the general availability of Azure OpenAI. This is a huge step towards allowing more and more people easy access to deep and technical models without a massive amount of data or compute resources. This allows people to quickly and cheaply use OpenAI capabilities directly within Azure like never before. But what are those capabilities exactly? And are they useful for more than an amusing sideshow?
