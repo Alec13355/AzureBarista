@@ -10,11 +10,9 @@ We have some structured data, but without a lot of manual work we can't really u
 ## Requirements To Begin
 1. Azure Subscription
 
-2. Azure Open AI Services
+2. Azure Pay As You Go Account
 
-3. Azure Pay As You Go Account
-
-4. Azure AI Search
+3. Azure AI Search
 
 ## Azure AI Search
 We are going to use Azure AI Search. To start we are going to try to index our simple data structure in our CSV. It looks like this if you would like to follow the example! 
