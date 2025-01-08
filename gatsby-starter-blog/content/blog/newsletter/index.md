@@ -3,7 +3,7 @@ title: Gimmie a Newsletter
 date: "2025-01-07T22:10:03.284Z"
 description: This entry is my goal to explain why I have created a newsletter, what I plan to include in it, and what you should expect from it!
 ---
-
+![Newsletter](./AzureBarista.jpg)
 ## Why I created a newsletter
 
 I have been working in the cloud for a few years now and I have seen a lot of changes. My Microsoft MVP in Azure and AI were both given to me by trying to keep up with the latest and greatest in Azure. First, it was pragmatic, my team needed someone to get things done in CI/CD and infrastructure as code. Just graduating from college I volunteered to read documentation and learn "Azure". While I was learning I also documented my learnings and shared them with the community. 
