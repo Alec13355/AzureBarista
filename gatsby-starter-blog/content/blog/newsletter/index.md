@@ -1,6 +1,6 @@
 ---
 title: Gimmie a Newsletter
-date: "2025-01-6T22:10:03.284Z"
+date: "2025-01-07T22:10:03.284Z"
 description: This entry is my goal to explain why I have created a newsletter, what I plan to include in it, and what you should expect from it!
 ---
 
