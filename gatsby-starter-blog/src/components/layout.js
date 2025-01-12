@@ -25,7 +25,8 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      
+      <script type="text/javascript" src="https://campaigns.zoho.com/js/zc.iframe.js"></script>
+      <iframe frameborder="0" id="iframewin" width="100%" height="100%" src="https://zcsub-cmpzourl.maillist-manage.com/ua/Optin?od=11287eccd8a904&zx=12dbe12b6&tD=1134968a0d51d87a9&sD=1134968a0d51d898a"></iframe>
       {/* <div id="newsletter-container">
         <div id="sf3zc9b642d99270ab0e0d58ca830ea795655b103455b7d50f6335671bfa4eefc8bb" data-type="signupform">
           <div id="customForm">
