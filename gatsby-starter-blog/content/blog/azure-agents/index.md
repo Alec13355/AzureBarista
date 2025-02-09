@@ -3,10 +3,10 @@ title: Azure Agents UI!
 date: "2025-02-09T01:10:03.284Z"
 description: We are going to cover the most recent announcement of Azure AI Agents! 
 ---
-# Azure Autonomous Agents In Public Preview! 
+# Azure AI Agent Service In Public Preview! 
 ![AI Service](./AIServices.png)
 
-If you want to read more from Microsoft's announcement of Autonomous Agents you can read that [here.](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/unlocking-ai-powered-automation-with-azure-ai-agent-service/4372041)For this blog post I am going to walk you through the UI and how to make our first custom agent!
+If you want to read more from Microsoft's announcement of AI Agents you can read that [here.](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/unlocking-ai-powered-automation-with-azure-ai-agent-service/4372041)For this blog post I am going to walk you through the UI and how to make our first custom agent!
 
 ## Getting Started
 We first are going to need an Azure AI Foundry resource and AI Project. Once we do that we are going to create an agent. All agents we create end up in the agent view like this!
