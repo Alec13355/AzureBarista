@@ -128,8 +128,8 @@ module.exports = {
                 return Object.assign({}, node.frontmatter, {
                   description: node.excerpt,
                   date: node.frontmatter.date,
-                  url: "https://www.azurebarista.com/" + node.fields.slug,
-                  guid: "https://www.azurebarista.com/" + node.fields.slug,
+                  url: "https://www.azurebarista.com" + node.fields.slug,
+                  guid: "https://www.azurebarista.com" + node.fields.slug,
                   custom_elements: [{ "content:encoded": node.html }],
                 })
               })
