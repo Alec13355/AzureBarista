@@ -82,6 +82,8 @@ If you’re ready to explore building your own custom Copilot, definitely give A
 
 **Huge thanks to Sam Nasser** for sharing his expertise! If you have any follow-up questions or would like to see more sessions on AI and Azure, feel free to reach out.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_49H3kuYvI4?si=kDg9y5bV-CYZoeJ3&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 *Thanks for reading! If you found this helpful, share it with your fellow Azure enthusiasts or join us at our next user group meeting.*
