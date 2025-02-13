@@ -1,12 +1,12 @@
 ---
-title: "What I Learned About Building a Custom Copilot with Sam Nasser"
+title: "What I Learned About Building a Custom Copilot with Sam Nasr"
 date: "2025-02-12"
-description: "What I Learned About Building a Custom Copilot with Sam Nasser"
+description: "What I Learned About Building a Custom Copilot with Sam Nasr"
 ---
 
-# What I Learned About Building a Custom Copilot with Sam Nasser
+# What I Learned About Building a Custom Copilot with Sam Nasr
 
-Earlier this week, our Azure User Group had the pleasure of hosting a talk by **Sam Nasser**, a Microsoft MVP and experienced software engineer. Sam walked us through the process of creating our own “Copilot” using Azure AI Foundry (previously known as Azure AI Studio). If you’ve been curious about extending generative AI to fit your organization’s specific needs, here’s a recap from his talk.
+Earlier this week, our Azure User Group had the pleasure of hosting a talk by **Sam Nasr**, a Microsoft MVP and experienced software engineer. Sam walked us through the process of creating our own “Copilot” using Azure AI Foundry (previously known as Azure AI Studio). If you’ve been curious about extending generative AI to fit your organization’s specific needs, here’s a recap from his talk.
 
 ---
 
@@ -75,12 +75,12 @@ Sam introduced us to **Azure AI Foundry**, a web-based environment that integrat
 
 - [Azure AI Foundry Documentation](https://learn.microsoft.com/en-us/azure/ai-services/)  
 - [Azure OpenAI Quickstart](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart)  
-- [Sam Nasser’s LinkedIn Author Page](https://www.linkedin.com/learning/instructors/sam-nasser)  
+- [Sam Nasr’s LinkedIn Author Page](https://www.linkedin.com/learning/instructors/sam-nasser)  
 - [Recording of the Talk](https://www.youtube.com/watch?v=_49H3kuYvI4&t=5s)
 
 If you’re ready to explore building your own custom Copilot, definitely give Azure AI Foundry a try. It’s a powerful way to bring conversational AI into your projects with minimal friction.
 
-**Huge thanks to Sam Nasser** for sharing his expertise! If you have any follow-up questions or would like to see more sessions on AI and Azure, feel free to reach out.
+**Huge thanks to Sam Nasr** for sharing his expertise! If you have any follow-up questions or would like to see more sessions on AI and Azure, feel free to reach out.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_49H3kuYvI4?si=kDg9y5bV-CYZoeJ3&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
