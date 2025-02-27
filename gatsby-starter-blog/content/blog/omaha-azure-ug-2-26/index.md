@@ -1,6 +1,6 @@
 ---
 title: Omaha UG Beyond Agentic Trustworthy Ai for Everyday Techies
-date: "2025-02-026T22:10:03.284Z"
+date: "2025-02-26T22:10:03.284Z"
 description: Writing my thoughts about the Omaha UG Beyond Agentic Trustworthy Ai for Everyday Techies
 ---
 This week is an odd double user group week. This was due to the Azure User Group rescheduling their meeting to this week due to the crazy weather we had last week and the .Net User Group doing their normal meeting. Due to that I am trying to take notes on both events and use them to create a post. Here is Omaha UG Beyond Agentic: Trustworthy Ai for Everyday Techies. 
