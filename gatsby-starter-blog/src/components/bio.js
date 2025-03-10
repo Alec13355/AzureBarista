@@ -49,8 +49,8 @@ const Bio = () => {
             LinkedIn
           </a>
           &nbsp;and message me there.
-          <a href={`https://www.meetup.com/Iowa-Microsoft-Azure-User-Group`}>
-            You should checkout IMAUG!
+          <a href={`https://www.youtube.com/@AzureCloudTalk?sub_confirmation=1`}>
+            You should checkout sub to Azure Cloud Talk YouTube Channel!
           </a>
         </p>
       )}
