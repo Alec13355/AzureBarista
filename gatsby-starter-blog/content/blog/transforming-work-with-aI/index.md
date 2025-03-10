@@ -1,6 +1,6 @@
 ---
 title: Transforming Work with AI
-date: "2025-03-9T22:10:03.284Z"
+date: "2025-03-09T22:10:03.284Z"
 description: In a recent episode of Azure Cloud Talk, hosts Alec Harrison and Brian Gorman welcomed Chris Thompson, founder and principal at Opt Quality. 
 ---
 
