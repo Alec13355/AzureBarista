@@ -1,12 +1,12 @@
 ---
 title: Transforming Work with AI
 date: "2025-03-09T22:10:03.284Z"
-description: In a recent episode of Azure Cloud Talk, hosts Alec Harrison and Brian Gorman welcomed Chris Thompson, founder and principal at Opt Quality. 
+description: In a recent episode of Azure Cloud Talk, hosts Alec Harrison and Brian Gorman welcomed Chris Thompson, founder and principal at OptQuality. 
 ---
 
 ## Embracing AI in the Modern Workplace: Insights from Chris Thompson
 ### Introduction
-In a recent episode of Azure Cloud Talk, hosts Alec Harrison and Brian Gorman welcomed Chris Thompson, founder and principal at Opt Quality. They discussed the evolution of technology, career transitions, and the transformative impact of AI on the workplace landscape. Chris shared his journey from a farm boy turned video game enthusiast to a technical leader, offering valuable insights on automation, organizational efficiency, and the future of work.
+In a recent episode of Azure Cloud Talk, hosts Alec Harrison and Brian Gorman welcomed Chris Thompson, founder and principal at OptQuality. They discussed the evolution of technology, career transitions, and the transformative impact of AI on the workplace landscape. Chris shared his journey from a farm boy turned video game enthusiast to a technical leader, offering valuable insights on automation, organizational efficiency, and the future of work.
 
 ### From Shoe Salesman to Technical Leader
 Chris began his career journey as a part-time shoe salesman at Cabela's while studying computer engineering. Rather than pursuing development, he strategically entered infrastructure to bring automation skills to a field where they were lacking. Throughout his career, he has gained diverse experience across system engineering, networking, development, data analytics, and various leadership roles.
