@@ -1,5 +1,5 @@
 ---
-title: GitHub Copilot Code Review: Revolutionizing Code Quality
+title: GitHub Copilot Code Review| Revolutionizing Code Quality
 date: "2025-04-05T01:10:03.284Z"
 description: GitHub Copilot Code Review is now generally available!
 ---
