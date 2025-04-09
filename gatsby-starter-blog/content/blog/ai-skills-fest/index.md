@@ -1,6 +1,6 @@
 ---
 title: First Session of AI Skills Fest
-date: "2025-04-08:10:03.284Z"
+date: "2025-04-08T22:10:03.284Z"
 description: First session of AI Skills Fest! 
 ---
 
