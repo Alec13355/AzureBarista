@@ -84,7 +84,6 @@ if confidence < 0.8:
 * Route low‑confidence or policy‑related questions to support staff.  
 * Let humans *approve* or *edit* AI‑generated drafts before they ship.
 
-![Escalation Flow](image-placeholder)
 
 ### 3.4 Real‑Time **Sentiment & Anomaly** Monitoring
 
