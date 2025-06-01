@@ -1,7 +1,7 @@
 ---
 title: Getting AI to Write Code to Your Standards!
 date: "2025-05-31T01:10:03.284Z"
-description: MS Ignite day 1 key takeaways
+description: Tired of AI-generated code that almost hits the mark? 😅 With GitHub Copilot, you can actually guide it to write code to YOUR standards! By using custom instructions (like a .github/copilot-instructions.md file in your repo or personal settings), you can ensure consistency, enforce best practices, and make Copilot aware of project-specific needs. Spend less time tweaking and more time building.
 ---
 
 ## Getting AI to Write Code to Your Standards!
