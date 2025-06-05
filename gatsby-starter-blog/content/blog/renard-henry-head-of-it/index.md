@@ -1,6 +1,6 @@
 ---
 title: "AI Under the Hood with Head of IT Renard Henry of Toyota Connected"
-date: "2025-06-2T22:10:03.284Z"
+date: "2025-06-02T22:10:03.284Z"
 description: "We recently had the distinct pleasure of hosting Renard Henry, Head of IT at Toyota Connected North America, on "Engineering in the Loop." The conversation was a fascinating dive into the realities of AI in the automotive industry, Toyota's innovative spirit, and the leadership principles that drive success in a fast-paced tech environment. Renard brought a wealth of experience, not just from his current role but from a diverse career spanning finance, healthcare, and even a black belt in Jiu-Jitsu!"
 ---
 
